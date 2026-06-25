@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\bin\x86\Debug\Lab2.App1.exe.config
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\bin\x86\Debug\Lab2.App1.exe
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\bin\x86\Debug\Lab2.App1.pdb
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\obj\x86\Debug\Lab2.App1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\obj\x86\Debug\App.g.cs
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\obj\x86\Debug\Lab2.App1_MarkupCompile.cache
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\obj\x86\Debug\Lab2.App1_MarkupCompile.lref
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\obj\x86\Debug\MainWindow.baml
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\obj\x86\Debug\Lab2.App1.g.resources
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\obj\x86\Debug\Lab2.App1.Properties.Resources.resources
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\obj\x86\Debug\Lab2.App1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\obj\x86\Debug\Lab2.App1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\obj\x86\Debug\Lab2.App1.csproj.Up2Date
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\obj\x86\Debug\Lab2.App1.exe
+C:\Users\user\source\repos\Lab2.App1\Lab2.App1\obj\x86\Debug\Lab2.App1.pdb
